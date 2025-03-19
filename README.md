@@ -1,6 +1,6 @@
 # 🌊 Water Tempest - Video Game Studio 🎮
 
-![Water Tempest Logo](![Captura desde 2025-03-19 09-27-58](https://github.com/user-attachments/assets/f18d4b52-22ab-4b57-86c6-75001dc167af)
+https://github.com/user-attachments/assets/f18d4b52-22ab-4b57-86c6-75001dc167af
 
 ¡Bienvenido al repositorio oficial de **Water Tempest**! 🌪️🌊
 
