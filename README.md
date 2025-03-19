@@ -1,7 +1,5 @@
 # 🌊 Water Tempest - Video Game Studio 🎮
 
-https://github.com/user-attachments/assets/f18d4b52-22ab-4b57-86c6-75001dc167af
-
 ¡Bienvenido al repositorio oficial de **Water Tempest**! 🌪️🌊
 
 ## 🌟 Sobre Nosotros
@@ -22,7 +20,7 @@ Nos enfocamos en construir una comunidad de jugadores y desarrolladores que comp
 ## 🚀 Nuestros Proyectos
 Aquí encontrarás el código y las actualizaciones de nuestros videojuegos en desarrollo. Algunos de nuestros proyectos incluyen:
 
-- **Tides of Destiny** 🌊 - Una aventura épica en un mundo acuático dominado por criaturas místicas. Explora islas misteriosas, enfrenta enemigos ancestrales y descubre los secretos de un océano infinito.
+- **Tides of Destiny** 🌊 - Una aventura épica en un mundo abierto dominado por criaturas místicas. Explora islas misteriosas, enfrenta enemigos ancestrales y descubre los secretos de un mundo infinito.
 - **Stormfront Arena** ⚡ - Un frenético juego de combate online donde los elementos son tu arma. Compite en arenas dinámicas donde la tormenta es tanto un peligro como una oportunidad estratégica.
 - **Echoes of the Deep** 🔱 - Un RPG submarino con misterios ocultos en las profundidades del océano. Personaliza a tu personaje, mejora tus habilidades y sumérgete en un mundo submarino lleno de secretos olvidados.
 - **Chrono Tempest** ⏳ - Un juego de rol y estrategia basado en viajes en el tiempo, donde cada decisión que tomes alterará el destino del universo.
